@@ -1,9 +1,3 @@
-"""
-FCL Workload Dashboard — Streamlit edition.
-
-
-"""
-
 import json
 import math
 import os
