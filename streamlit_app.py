@@ -1,10 +1,7 @@
 """
 FCL Workload Dashboard — Streamlit edition.
 
-Converted from the local Dash app for GitHub + Streamlit Community Cloud.
-The STATSports/API logic, workload calculations, target rules, and PDF report
-logic are preserved. Secrets are loaded from Streamlit Secrets/environment
-variables instead of being committed to source control.
+
 """
 
 import json
